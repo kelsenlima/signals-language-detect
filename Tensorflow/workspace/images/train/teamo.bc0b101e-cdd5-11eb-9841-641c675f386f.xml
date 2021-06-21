@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>teamo.bc0b101e-cdd5-11eb-9841-641c675f386f.jpg</filename>
+	<path>P:\language_detection\Tensorflow\workspace\images\train\teamo.bc0b101e-cdd5-11eb-9841-641c675f386f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>teamo</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>106</xmin>
+			<ymin>194</ymin>
+			<xmax>332</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

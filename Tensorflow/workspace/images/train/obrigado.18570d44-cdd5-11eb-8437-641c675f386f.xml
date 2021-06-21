@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>obrigado.18570d44-cdd5-11eb-8437-641c675f386f.jpg</filename>
+	<path>P:\language_detection\Tensorflow\workspace\images\train\obrigado.18570d44-cdd5-11eb-8437-641c675f386f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Obrigado</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>127</xmin>
+			<ymin>280</ymin>
+			<xmax>521</xmax>
+			<ymax>416</ymax>
+		</bndbox>
+	</object>
+</annotation>

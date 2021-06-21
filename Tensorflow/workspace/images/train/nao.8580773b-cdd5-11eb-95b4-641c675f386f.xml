@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>nao.8580773b-cdd5-11eb-95b4-641c675f386f.jpg</filename>
+	<path>P:\language_detection\Tensorflow\workspace\images\train\nao.8580773b-cdd5-11eb-95b4-641c675f386f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Nao</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>205</xmin>
+			<ymin>275</ymin>
+			<xmax>454</xmax>
+			<ymax>438</ymax>
+		</bndbox>
+	</object>
+</annotation>

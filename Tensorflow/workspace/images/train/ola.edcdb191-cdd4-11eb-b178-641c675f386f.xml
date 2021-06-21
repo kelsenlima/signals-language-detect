@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>ola.edcdb191-cdd4-11eb-b178-641c675f386f.jpg</filename>
+	<path>P:\language_detection\Tensorflow\workspace\images\train\ola.edcdb191-cdd4-11eb-b178-641c675f386f.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Ola</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>174</xmin>
+			<ymin>134</ymin>
+			<xmax>432</xmax>
+			<ymax>434</ymax>
+		</bndbox>
+	</object>
+</annotation>
